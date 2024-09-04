@@ -25,7 +25,7 @@ const Home = () => {
         >
           <motion.div {...headTextAnimation}>
             <h2 className="text-slate-600 font-bold xl:text-center">
-              Your Happy Pets, Our Priority.
+              Mobile Grooming Service. Your Happy Pets, Our Priority.
             </h2>
           </motion.div>
 
