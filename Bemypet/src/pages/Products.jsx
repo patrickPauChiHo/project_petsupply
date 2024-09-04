@@ -11,8 +11,8 @@ const Products = () => {
   return (
     <section className="min-h-screen">
       <div className="flex items-center justify-center mx-auto pb-5">
-        <span className=" bg-slate-600 text-white rounded-xl items-center justify-between text-center p-3">
-          Here are our Products
+        <span className="capitalize bg-slate-600 text-white rounded-xl items-center justify-between text-center p-3">
+          Here are our products
         </span>
       </div>
       <div className="flex items-center justify-around gap-3 mb-2">
